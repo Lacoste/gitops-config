@@ -1,2 +1,2 @@
 # gitops-config
-Weave.works gitops workship
+Weave.works gitops workshop
